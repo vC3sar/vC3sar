@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cesar Vazquez (vC3sar)</h1>
-<h3 align="center">💻 I create integrations, automations, and full systems in Java, JavaScript, C, and web development.nd-to-end software tailored to real needs.</h3>
+<h3 align="center">💻 I create integrations, automations, and full systems in Java, JavaScript, C, and web development.</h3>
 
 - 🔭 I’m currently working on [WebHook Tebex x Discord](https://github.com/vC3sar/WH-Tebex-MicroService-2025)
 
