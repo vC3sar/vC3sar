@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I ❤️ Bandidas & Powerlift**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: cesar.vazquez@katzellc.com</h3>
 <p align="left">
 </p>
 
