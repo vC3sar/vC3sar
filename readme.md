@@ -9,12 +9,13 @@
   ╚═══╝   ╚═════╝╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+Systems+Builder;Java+%7C+JavaScript+%7C+C+%7C+Web+Dev;Integrations+%2B+Automations+%2B+Microservices;Building+systems+that+actually+work+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1800&color=00FF9C&center=true&vCenter=true&width=640&lines=Full-Stack+Developer+%7C+Systems+Builder;Java+%7C+JavaScript+%7C+C+%7C+Web+Dev;Integrations+%2B+Automations+%2B+Microservices;Building+systems+that+actually+work+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-vcesar.katzellc.com-00FF9C?style=for-the-badge&labelColor=0d1117)](https://vcesar.katzellc.com)
 [![Email](https://img.shields.io/badge/📧_Email-cesar.vazquez@katzellc.com-00FF9C?style=for-the-badge&labelColor=0d1117)](mailto:cesar.vazquez@katzellc.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=vc3sar&color=00FF9C&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/vc3sar)
 
 </div>
 
@@ -33,7 +34,7 @@ public class CesarVazquez {
     String[] funFacts  = { "❤️ Bandidas", "🏋️ Powerlifter" };
 
     String currentProject() {
-        return "WebHook Tebex x Discord Microservice (2025)";
+        return "WebHook Tebex × Discord Microservice (2025)";
     }
 }
 ```
@@ -91,7 +92,7 @@ public class CesarVazquez {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vc3sar&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vc3sar&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9&ring_color=00FF9C"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vc3sar&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF9C&text_color=c9d1d9"/>
 
@@ -105,7 +106,7 @@ public class CesarVazquez {
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vc3sar&bg_color=0d1117&color=00FF9C&line=00FF9C&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vc3sar&bg_color=0d1117&color=00FF9C&line=00FF9C&point=ffffff&area=true&area_color=00FF9C&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -115,12 +116,12 @@ public class CesarVazquez {
 
 <div align="center">
 
-| 🚀 Proyecto | 📄 Descripción | 🛠️ Stack |
-|---|---|---|
-| [**WH-Tebex-MicroService**](https://github.com/vC3sar/WH-Tebex-MicroService-2025) | Webhook microservice integration between Tebex & Discord | `Node.js` `Express` `Docker` |
-| [**Portfolio**](https://vcesar.katzellc.com) | Personal portfolio & project hub | `Web` `CSS` `JS` |
+| 🚀 Proyecto | 📄 Descripción | 🛠️ Stack | ⭐ |
+|---|---|---|---|
+| [**WH-Tebex-MicroService**](https://github.com/vC3sar/WH-Tebex-MicroService-2025) | Webhook microservice bridge entre Tebex & Discord con arquitectura event-driven | `Node.js` `Express` `Docker` `Webhooks` | 🔥 |
+| [**Portfolio**](https://vcesar.katzellc.com) | Hub personal con proyectos, integraciones y sistemas | `HTML` `CSS` `JS` | 🌐 |
 
-> 🔭 **Currently working on:** Microservice architecture for Tebex × Discord webhook integrations
+> 🔭 **Currently building:** Microservice architecture for Tebex × Discord webhook integrations
 
 </div>
 
@@ -129,11 +130,21 @@ public class CesarVazquez {
 ## `$ uptime` — What I'm focused on
 
 ```bash
-[ACTIVE]    Learning complex system design for production environments
-[ACTIVE]    Building integrations & automations at scale
-[ACTIVE]    Powerlifting PRs + loving Bandidas 🏋️❤️
-[STATUS]    Open to freelance / collaboration — reach out!
+[ACTIVE] ●  Learning complex system design for production environments
+[ACTIVE] ●  Building integrations & automations at scale
+[ACTIVE] ●  Powerlifting PRs + loving Bandidas 🏋️❤️
+[OPEN]   ●  Available for freelance & collaboration — reach out!
 ```
+
+---
+
+## `$ cat tech/waveform.txt`
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 ---
 
@@ -141,15 +152,15 @@ public class CesarVazquez {
 
 ### `$ ping cesar.vazquez@katzellc.com`
 
-[![Email](https://img.shields.io/badge/cesar.vazquez%40katzellc.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF9C)](mailto:cesar.vazquez@katzellc.com)
-[![Portfolio](https://img.shields.io/badge/vcesar.katzellc.com-0d1117?style=for-the-badge&logo=google-chrome&logoColor=00FF9C)](https://vcesar.katzellc.com)
+[![Email](https://img.shields.io/badge/cesar.vazquez%40katzellc.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF9C&labelColor=161b22)](mailto:cesar.vazquez@katzellc.com)
+[![Portfolio](https://img.shields.io/badge/vcesar.katzellc.com-0d1117?style=for-the-badge&logo=google-chrome&logoColor=00FF9C&labelColor=161b22)](https://vcesar.katzellc.com)
 
 ---
-
-<img src="https://komarev.com/ghpvc/?username=vc3sar&color=00FF9C&style=for-the-badge&label=PROFILE+VIEWS" />
 
 ```
 > Connection established. System online. Let's build something. 🟢
 ```
+
+![Profile Views](https://komarev.com/ghpvc/?username=vc3sar&color=00FF9C&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
