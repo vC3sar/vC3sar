@@ -92,14 +92,6 @@ public class CesarVazquez {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vc3sar&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9&ring_color=00FF9C"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vc3sar&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF9C&text_color=c9d1d9"/>
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=vc3sar&theme=dark&hide_border=true&background=0d1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
 
 </div>
