@@ -27,7 +27,7 @@ public class CesarVazquez {
 
     String alias       = "vC3sar";
     String role        = "Integration & Systems Developer";
-    String location    = "Veracruz, México 🇲🇽";
+    String location    = "México 🇲🇽";
     String[] focus     = { "Microservices", "Automations", "Full Systems" };
     String[] learning  = { "Complex system design", "Production optimization" };
     String[] funFacts  = { "❤️ Bandidas", "🏋️ Powerlifter" };
