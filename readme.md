@@ -1,23 +1,155 @@
-<h1 align="center">Hi 👋, I'm Cesar Vazquez (vC3sar)</h1>
-<h3 align="center">💻 I create integrations, automations, and full systems in Java, JavaScript, C, and web development.</h3>
+<div align="center">
 
-- 🔭 I’m currently working on [WebHook Tebex x Discord](https://github.com/vC3sar/WH-Tebex-MicroService-2025)
+```
+██╗   ██╗ ██████╗██████╗ ███████╗ █████╗ ██████╗
+██║   ██║██╔════╝╚════██╗██╔════╝██╔══██╗██╔══██╗
+██║   ██║██║      █████╔╝███████╗███████║██████╔╝
+╚██╗ ██╔╝██║      ╚═══██╗╚════██║██╔══██║██╔══██╗
+ ╚████╔╝ ╚██████╗██████╔╝███████║██║  ██║██║  ██║
+  ╚═══╝   ╚═════╝╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
+```
 
-- 🌱 I’m currently learning **design complex, optimized systems for production environments.**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+Systems+Builder;Java+%7C+JavaScript+%7C+C+%7C+Web+Dev;Integrations+%2B+Automations+%2B+Microservices;Building+systems+that+actually+work+%F0%9F%9A%80" alt="Typing SVG" />
 
-- 👨‍💻 All of my projects are available at [vcesar.katzellc.com](vcesar.katzellc.com)
+<br/>
 
-- 📫 Mail **cesar.vazquez@katzellc.com**
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-vcesar.katzellc.com-00FF9C?style=for-the-badge&labelColor=0d1117)](https://vcesar.katzellc.com)
+[![Email](https://img.shields.io/badge/📧_Email-cesar.vazquez@katzellc.com-00FF9C?style=for-the-badge&labelColor=0d1117)](mailto:cesar.vazquez@katzellc.com)
 
-- ⚡ Fun fact **I ❤️ Bandidas & Powerlift**
+</div>
 
-<h3 align="left">Connect with me: cesar.vazquez@katzellc.com</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+## `$ whoami`
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vc3sar&show_icons=true&locale=en&layout=compact" alt="vc3sar" /></p>
+```java
+public class CesarVazquez {
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vc3sar&show_icons=true&locale=en" alt="vc3sar" /></p>
+    String alias       = "vC3sar";
+    String role        = "Integration & Systems Developer";
+    String location    = "Veracruz, México 🇲🇽";
+    String[] focus     = { "Microservices", "Automations", "Full Systems" };
+    String[] learning  = { "Complex system design", "Production optimization" };
+    String[] funFacts  = { "❤️ Bandidas", "🏋️ Powerlifter" };
+
+    String currentProject() {
+        return "WebHook Tebex x Discord Microservice (2025)";
+    }
+}
+```
+
+---
+
+## `$ ls -la ~/skills`
+
+<div align="center">
+
+### ⚙️ Languages
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+
+### 🔧 Backend & Infra
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+### 🛠️ Tools & Design
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## `$ git log --stat`
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vc3sar&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vc3sar&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF9C&text_color=c9d1d9"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=vc3sar&theme=dark&hide_border=true&background=0d1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vc3sar&bg_color=0d1117&color=00FF9C&line=00FF9C&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## `$ cat projects/featured.txt`
+
+<div align="center">
+
+| 🚀 Proyecto | 📄 Descripción | 🛠️ Stack |
+|---|---|---|
+| [**WH-Tebex-MicroService**](https://github.com/vC3sar/WH-Tebex-MicroService-2025) | Webhook microservice integration between Tebex & Discord | `Node.js` `Express` `Docker` |
+| [**Portfolio**](https://vcesar.katzellc.com) | Personal portfolio & project hub | `Web` `CSS` `JS` |
+
+> 🔭 **Currently working on:** Microservice architecture for Tebex × Discord webhook integrations
+
+</div>
+
+---
+
+## `$ uptime` — What I'm focused on
+
+```bash
+[ACTIVE]    Learning complex system design for production environments
+[ACTIVE]    Building integrations & automations at scale
+[ACTIVE]    Powerlifting PRs + loving Bandidas 🏋️❤️
+[STATUS]    Open to freelance / collaboration — reach out!
+```
+
+---
+
+<div align="center">
+
+### `$ ping cesar.vazquez@katzellc.com`
+
+[![Email](https://img.shields.io/badge/cesar.vazquez%40katzellc.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF9C)](mailto:cesar.vazquez@katzellc.com)
+[![Portfolio](https://img.shields.io/badge/vcesar.katzellc.com-0d1117?style=for-the-badge&logo=google-chrome&logoColor=00FF9C)](https://vcesar.katzellc.com)
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=vc3sar&color=00FF9C&style=for-the-badge&label=PROFILE+VIEWS" />
+
+```
+> Connection established. System online. Let's build something. 🟢
+```
+
+</div>
