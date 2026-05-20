@@ -13,9 +13,9 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-vcesar.katzellc.com-00FF9C?style=for-the-badge&labelColor=0d1117)](https://vcesar.katzellc.com)
-[![Email](https://img.shields.io/badge/📧_Email-cesar.vazquez@katzellc.com-00FF9C?style=for-the-badge&labelColor=0d1117)](mailto:cesar.vazquez@katzellc.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=vc3sar&color=00FF9C&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/vc3sar)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-vcesar.katzellc.com-00FF9C?style=for-the-badge&labelColor=8B0000)](https://vcesar.katzellc.com)
+[![Email](https://img.shields.io/badge/📧_Email-cesar.vazquez@katzellc.com-00FF9C?style=for-the-badge&labelColor=8B0000)](mailto:cesar.vazquez@katzellc.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=vc3sar&color=8B0000&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/vc3sar)
 
 </div>
 
