@@ -9,12 +9,12 @@
   ╚═══╝   ╚═════╝╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1800&color=00FF9C&center=true&vCenter=true&width=640&lines=Full-Stack+Developer+%7C+Systems+Builder;Java+%7C+JavaScript+%7C+C+%7C+Web+Dev;Integrations+%2B+Automations+%2B+Microservices;Building+systems+that+actually+work+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1800&color=8B0000&center=true&vCenter=true&width=640&lines=Full-Stack+Developer+%7C+Systems+Builder;Java+%7C+JavaScript+%7C+C+%7C+Web+Dev;Integrations+%2B+Automations+%2B+Microservices;Building+systems+that+actually+work+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-vcesar.katzellc.com-b9b9b?style=for-the-badge&labelColor=8B0000)](https://vcesar.katzellc.com)
-[![Email](https://img.shields.io/badge/📧_Email-cesar.vazquez@katzellc.com-9b9b9b?style=for-the-badge&labelColor=8B0000)](mailto:cesar.vazquez@katzellc.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-vcesar.katzellc.com-8B0000?style=for-the-badge&labelColor=8B0000)](https://vcesar.katzellc.com)
+[![Email](https://img.shields.io/badge/📧_Email-cesar.vazquez@katzellc.com-8B0000?style=for-the-badge&labelColor=8B0000)](mailto:cesar.vazquez@katzellc.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=vc3sar&color=8B0000&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/vc3sar)
 
 </div>
