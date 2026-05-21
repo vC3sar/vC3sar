@@ -1,13 +1,6 @@
 <div align="center">
 
-```
-██╗   ██╗ ██████╗██████╗ ███████╗ █████╗ ██████╗
-██║   ██║██╔════╝╚════██╗██╔════╝██╔══██╗██╔══██╗
-██║   ██║██║      █████╔╝███████╗███████║██████╔╝
-╚██╗ ██╔╝██║      ╚═══██╗╚════██║██╔══██║██╔══██╗
- ╚████╔╝ ╚██████╗██████╔╝███████║██║  ██║██║  ██║
-  ╚═══╝   ╚═════╝╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
-```
+![GitHubCard](https://githubcard.com/vC3sar.svg)
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1800&color=008B8B&center=true&vCenter=true&width=640&lines=Full-Stack+Developer+%7C+Systems+Builder;Java+%7C+JavaScript+%7C+C+%7C+Web+Dev;Integrations+%2B+Automations+%2B+Microservices;Building+systems+that+actually+work+%F0%9F%9A%80" alt="Typing SVG" />
 
