@@ -49,13 +49,19 @@ public class CesarVazquez {
 
 ---
 
-## `$ cat projects/featured.md`
+## `$ cat projects/best.md`
 
 <div align="center">
 
-| Project | What it does | Stack |
+| Repo | What it does | Stack |
 |---|---|---|
 | [**WH-Tebex-MicroService**](https://github.com/vC3sar/WH-Tebex-MicroService-2025) | Webhook bridge between Tebex and Discord, built on an event-driven architecture | `Node.js` `Express` `Docker` `Webhooks` |
+| [**ADBHUB-LINK**](https://github.com/vC3sar/ADBHUB-LINK) | Remote USB passthrough for flashing phones over the internet, with USB/IP over authenticated QUIC tunnels | `USB/IP` `QUIC` `TLS 1.3` `Windows` |
+| [**FlashFix_PosKit**](https://github.com/vC3sar/FlashFix_PosKit) | Offline desktop app to run a phone-repair shop: management, control and diagnostics | `Electron` `Node.js` `SQLite` `Express` |
+| [**CFSSH-CLIENT**](https://github.com/vC3sar/CFSSH-CLIENT) | Android SSH client with saved server profiles, a fast terminal and a touch-friendly keyboard toolbar | `Flutter` `Dart` `SSH` |
+| [**Mexlify**](https://github.com/vC3sar/Mexlify) | Ad-free Windows music player with search, MP3 download and Discord Rich Presence, built on yt-dlp | `Electron` `Node.js` `yt-dlp` `Redis` |
+| [**MineBAO**](https://github.com/vC3sar/MineBAO) | Minecraft launcher for offline-mode accounts: Vanilla and Fabric installs, a Mineflayer bot mode and Discord Rich Presence | `Electron` `Node.js` `Mineflayer` |
+| [**locknotch.CuCo**](https://github.com/vC3sar/locknotch.CuCo) | Desktop app built with Tauri and TypeScript | `Tauri` `TypeScript` |
 
 **More projects:** [github.com/vC3sar?tab=repositories](https://github.com/vC3sar?tab=repositories)
 
